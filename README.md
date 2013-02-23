@@ -1,4 +1,4 @@
-# CCLeaner Puppet Module for Boxen
+# CCleaner Puppet Module for Boxen
 
 ## Usage
 
