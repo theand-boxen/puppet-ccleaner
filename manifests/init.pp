@@ -6,6 +6,6 @@
 class ccleaner {
   package { 'CCleaner':
     provider => 'appdmg',
-    source   => 'https://download.piriform.com/mac/CCMacSetup110.dmg',
+    source   => 'https://download.piriform.com/mac/CCMacSetup112.dmg',
   }
 }
